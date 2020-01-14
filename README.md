@@ -1,6 +1,9 @@
 #learnt how to install php etc...
 https://stackoverflow.com/questions/40719722/unable-to-locate-package-apt-get-in-docker-container
 
+#install wordpress
+https://www.tothenew.com/blog/setup-wordpress-using-dockerfile-with-containers-on-two-different-host-machines/
+
 #understanding configuration files for nginx
 https://www.nginx.com/resources/wiki/start/
 
