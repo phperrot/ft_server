@@ -6,6 +6,8 @@ docker run -d -p 2368:2368 ocr-docker-build__
 
 (ocr-docker-build = image name)
 
+available here : http://127.0.0.1:2368.
+
 => https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker/6211517-creez-votre-premier-dockerfile
 
 #learnt how to install php etc...
