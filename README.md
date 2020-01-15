@@ -5,6 +5,8 @@ https://stackoverflow.com/questions/40719722/unable-to-locate-package-apt-get-in
 https://www.tothenew.com/blog/setup-wordpress-using-dockerfile-with-containers-on-two-different-host-machines/
 https://medium.com/@mannycodes/custom-wordpress-docker-setup-8851e98e6b8
 
+we got the wordpress config files using __git clone https://github.com/WordPress/wordpress__
+
 #understanding configuration files for nginx
 https://www.nginx.com/resources/wiki/start/
 
