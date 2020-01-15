@@ -1,3 +1,13 @@
+#launch Dockerfile
+
+__docker build -t ocr-docker-build .
+
+docker run -d -p 2368:2368 ocr-docker-build__
+
+(ocr-docker-build = image name)
+
+=> https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker/6211517-creez-votre-premier-dockerfile
+
 #learnt how to install php etc...
 https://stackoverflow.com/questions/40719722/unable-to-locate-package-apt-get-in-docker-container
 
