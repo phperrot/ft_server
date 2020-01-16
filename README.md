@@ -1,8 +1,8 @@
 #launch Dockerfile
 
-__docker build -t ocr-docker-build .
+__docker build -t ocr-docker-build .__
 
-docker run -ti -p 80:80 -p 443:443 --name web server__
+__docker run -ti -p 80:80 -p 443:443 --name web server__
 
 (ocr-docker-build = image name)
 
