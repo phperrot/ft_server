@@ -2,7 +2,7 @@
 
 __docker build -t ocr-docker-build .
 
-docker run -d -p 2368:2368 ocr-docker-build__
+docker run -ti -p 80:80 -p 443:443 --name web server__
 
 (ocr-docker-build = image name)
 
