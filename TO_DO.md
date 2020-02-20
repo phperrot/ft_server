@@ -1,0 +1,9 @@
+- [ ] nginx
+- [ ] container tourne sur Debian Buster
+- [ ] Wordpress
+- [ ] Phpmyadmin
+- [ ] MySQL
+- [ ] check lien entre Wordpress et Phpmyadmin
+- [ ] protocole SSL
+- [ ] url tappe check
+- [ ] index automatique desactivable
