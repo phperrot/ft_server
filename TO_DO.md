@@ -1,5 +1,5 @@
 - [ ] nginx
-- [ ] container tourne sur Debian Buster
+- [x] container tourne sur Debian Buster
 - [ ] Wordpress
 - [ ] Phpmyadmin
 - [ ] MySQL
