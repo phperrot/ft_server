@@ -5,5 +5,5 @@
 - [ ] MySQL
 - [ ] check lien entre Wordpress et Phpmyadmin
 - [ ] protocole SSL
-- [ ] url tappe check
+- [x] url tappe check
 - [ ] index automatique desactivable
