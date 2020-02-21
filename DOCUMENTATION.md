@@ -10,6 +10,5 @@ Short summary here:
 
 ## NGINX
 
-http://nginx.org/en/docs/beginners_guide.html
-
+https://vonkrafft.fr/console/simple-site-php-avec-docker-nginx/
 
