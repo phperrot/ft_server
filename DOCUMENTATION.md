@@ -31,6 +31,12 @@ removing an existing container (must be stopped)
 ```shell
 docker container rm container [CONTAINER_ID]
 ```
+
+to stop and remove all containers:
+```shell
+docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q)
+```
+
 ## HANDLING CONTAINERS
 
 see all existing container:
