@@ -12,7 +12,11 @@ docker build -t [image-name] .
 ```
 command to run an image
 ```shell
-docker run [image-name]
+docker run -p 443:443 [image-name]
+```
+get terminal interface while running: add -i flag
+```shell
+docker run -p 443:443 -i [image-name]
 ```
 # CONFIGURATION DOCUMENTATION
 
