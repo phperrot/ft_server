@@ -18,6 +18,9 @@ get terminal interface while running: add -i flag
 ```shell
 docker run -p 443:443 -i [image-name]
 ```
+
+## HANDLING DOCKER CONTAINER
+
 ```shell
 docker container ls
 ```
@@ -37,11 +40,6 @@ to stop and remove all containers:
 docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q)
 ```
 
-## HANDLING CONTAINERS
-
-see all existing container:
-
-
 # CONFIGURATION DOCUMENTATION
 
 ## NGINX
@@ -55,3 +53,6 @@ http://wordpress.laurentdumoulin.com/premier-pas/structure-de-la-base-de-donnees
 
 ## SSL
 https://lehollandaisvolant.net/?d=2019/01/07/22/57/47-localhost-et-https
+
+## INDEX
+http://nginx.org/en/docs/http/ngx_http_autoindex_module.html
