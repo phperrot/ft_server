@@ -42,3 +42,7 @@ see all existing container:
 
 https://vonkrafft.fr/console/simple-site-php-avec-docker-nginx/
 
+## WORDPRESS
+
+http://wordpress.laurentdumoulin.com/premier-pas/structure-de-la-base-de-donnees-wordpress/
+(is used for wordpress.sql file)
