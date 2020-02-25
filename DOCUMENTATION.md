@@ -18,6 +18,24 @@ get terminal interface while running: add -i flag
 ```shell
 docker run -p 443:443 -i [image-name]
 ```
+```shell
+docker container ls
+```
+
+stopping an existing container
+```shell
+docker container stop container [CONTAINER_ID]
+```
+
+removing an existing container (must be stopped)
+```shell
+docker container rm container [CONTAINER_ID]
+```
+## HANDLING CONTAINERS
+
+see all existing container:
+
+
 # CONFIGURATION DOCUMENTATION
 
 ## NGINX
