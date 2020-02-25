@@ -52,3 +52,6 @@ https://vonkrafft.fr/console/simple-site-php-avec-docker-nginx/
 
 http://wordpress.laurentdumoulin.com/premier-pas/structure-de-la-base-de-donnees-wordpress/
 (is used for wordpress.sql file)
+
+## SSL
+https://lehollandaisvolant.net/?d=2019/01/07/22/57/47-localhost-et-https
