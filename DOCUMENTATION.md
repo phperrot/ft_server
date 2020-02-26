@@ -44,6 +44,9 @@ docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q)
 
 check this wonderful [README.md](https://github.com/pmouhali/ft_server/blob/master/README.md) from [pmouhali](https://github.com/pmouhali/)
 
+## Installing DOCKER
+check this [script](https://github.com/alexandregv/42toolbox/blob/master/init_docker.sh) to launch docker without any lag
+
 ## NGINX
 
 https://vonkrafft.fr/console/simple-site-php-avec-docker-nginx/
