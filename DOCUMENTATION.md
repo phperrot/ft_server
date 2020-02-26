@@ -42,6 +42,8 @@ docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q)
 
 # CONFIGURATION DOCUMENTATION
 
+check this wonderful [README.md](https://github.com/pmouhali/ft_server/blob/master/README.md) from [pmouhali](https://github.com/pmouhali/)
+
 ## NGINX
 
 https://vonkrafft.fr/console/simple-site-php-avec-docker-nginx/
